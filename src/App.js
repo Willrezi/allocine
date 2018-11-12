@@ -32,17 +32,17 @@ class App extends React.Component {
 
               <Button
                 url="http://www.allocine.fr/video/player_gen_cmedia=19578220&cfilm=27442.html"
-                text="Bande-annonce"
+                text="BANDE-ANNONCE"
                 theme="black"
               />
               <Button
                 url="http://www.allocine.fr/seance/film-27442/pres-de-121554/"
-                text="Séances (2)"
+                text="SÉANCES (2)"
                 theme="yellow"
               />
               <Button
                 url="http://www.allocine.fr/film/fichefilm-27442/telecharger-vod/"
-                text="Ce film en VOD"
+                text="CE FILM EN VOD"
                 theme="grey"
               />
             </div>
